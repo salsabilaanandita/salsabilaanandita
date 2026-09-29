@@ -23,7 +23,7 @@ I'm **Salsabila Anandita Putri**, a **Junior Web Developer** and fresh graduate 
 * 📚 **Bookstore App (Pustaka)** — React.js, Express.js, PostgreSQL & REST API
 * 📦 **Inventaris App (INV-PRO)** — Laravel, PHP, PostgreSQL, Tailwind CSS & REST API
 * 🧾 **Kasir App (KasirApp)** — Laravel, PHP, PostgreSQL & Tailwind CSS
-* 💰 **Money Tracker** — Next.js, PostgreSQL & REST API
+* 💰 **Money Tracker** — Next.js, Go (Gin), PostgreSQL & REST API
 
 ---
 
