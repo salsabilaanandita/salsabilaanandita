@@ -1,6 +1,6 @@
 <h1 align="left">✧ Hello, I'm <a href="https://luminette.carrd.co/" target="blank">Salsabila</a> ✧</h1>
 
-I'm **Salsabila Anandita Putri**, a **Junior Web Developer** and fresh graduate from **SMK Wikrama Bogor**, majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
+**Junior Web Developer** and fresh graduate from **SMK Wikrama Bogor**, majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
 
 💻 Interested in **Web Development & Full-Stack Development**
 ⚡ Focused on **Next.js, React.js, Laravel, and REST API**
