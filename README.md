@@ -38,7 +38,7 @@ Worked across **Quality Assurance, System Analysis, Frontend, and Backend Develo
 ### 📫 Connect With Me
 
 - 🌐 Portfolio: https://porto-sabil.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/salsabila-ananditaputri/
+- 💼 LinkedIn: https://www.linkedin.com/in/salsabilaananditaputri/
 - 📸 Instagram: https://instagram.com/_ssalsabiill
 
 ![GitHub Snake](./grid-snake.svg)
