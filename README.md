@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello I'm Salsabila 
 
 I'm **Salsabila Anandita Putri**, a **Junior Web Developer** and fresh graduate from **SMK Wikrama Bogor**, majoring in **Pengembangan Perangkat Lunak dan Gim (PPLG)**.
 
