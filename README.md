@@ -12,10 +12,7 @@ I'm **Salsabila Anandita Putri**, a **Junior Web Developer** and fresh graduate 
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,express,postgresql,mysql,git,github" />
-</p>
-
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,lumen,express,go,mysql,postgresql,git,github,postman" /> </p>
 ---
 
 ### 📌 Featured Projects
